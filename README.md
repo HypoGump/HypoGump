@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Xunqi](https://hypogump.github.io/) 👋
 
+- 🔭 I’m currently working on my CS master degree
+- 🌱 I’m interested in computer network & DPDK
+- 💬 Ask me anything [here](https://github.com/HypoGump/HypoGump/issues) or contact me via [other ways](https://hypogump.github.io/contact)
 <!--
 **HypoGump/HypoGump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=HypoGump)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HypoGump&hide=ipynb,html&layout=compact)
